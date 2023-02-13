@@ -1,0 +1,15 @@
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\obj\Debug\net6.0\13-02-2023.csproj.AssemblyReference.cache
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\obj\Debug\net6.0\13-02-2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\obj\Debug\net6.0\13-02-2023.AssemblyInfoInputs.cache
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\obj\Debug\net6.0\13-02-2023.AssemblyInfo.cs
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\obj\Debug\net6.0\13-02-2023.csproj.CoreCompileInputs.cache
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\bin\Debug\net6.0\13-02-2023.exe
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\bin\Debug\net6.0\13-02-2023.deps.json
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\bin\Debug\net6.0\13-02-2023.runtimeconfig.json
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\bin\Debug\net6.0\13-02-2023.dll
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\bin\Debug\net6.0\13-02-2023.pdb
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\obj\Debug\net6.0\13-02-2023.dll
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\obj\Debug\net6.0\refint\13-02-2023.dll
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\obj\Debug\net6.0\13-02-2023.pdb
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\obj\Debug\net6.0\13-02-2023.genruntimeconfig.cache
+C:\Users\ashin.damodaran\source\repos\13-02-2023\13-02-2023\obj\Debug\net6.0\ref\13-02-2023.dll
